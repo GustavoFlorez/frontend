@@ -67,8 +67,6 @@
         <img src="/static/icons/favicon-192x192.png" height="52" width="52" />
         STC Automation
       </div>
-
-      <ha-onboarding></ha-onboarding>
     </div>
 
     <%= renderTemplate('_js_base') %>
