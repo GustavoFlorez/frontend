@@ -65,7 +65,7 @@
     <div class="content">
       <div class="header">
         <img src="/static/icons/favicon-192x192.png" height="52" width="52" />
-        Home Assistant
+        STC Automation
       </div>
 
       <ha-onboarding></ha-onboarding>
