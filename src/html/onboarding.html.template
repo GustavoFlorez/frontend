@@ -69,9 +69,6 @@
       </div>
     </div>
 
-    <%= renderTemplate('_js_base') %>
-    <%= renderTemplate('_preload_roboto') %>
-
     <script crossorigin="use-credentials">
       // Safari 12 and below does not have a compliant ES2015 implementation of template literals, so we ship ES5
       if (!isS11_12) {
